@@ -1,7 +1,4 @@
-## Bienvenido 👋
 ## Somos Alfred MG
-
-<!--
 
 ### NUESTRO OBJETIVO  🎯
 Simplificar y democratizar la gestión de comunidades de vecinos, proporcionando una herramienta integral que permita tanto la autogestión como el apoyo a administradores profesionales, ahorrando tiempo, dinero y esfuerzo.
@@ -11,4 +8,3 @@ Ser la solución tecnológica líder en la gestión de comunidades de vecinos, o
 
 ### NUESTRA VISIÓN 🧐
 Transformar la gestión de comunidades de vecinos en un modelo sostenible, accesible y libre de complicaciones, donde cualquier comunidad, sin importar su tamaño, pueda gestionar sus recursos de manera eficiente, económica y autónoma, promoviendo un futuro más colaborativo y conectado.
--->
