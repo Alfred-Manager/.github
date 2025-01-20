@@ -1,12 +1,14 @@
-## Hi there 👋
+## Bienvenido 👋
+## Somos Alfred MG
 
 <!--
 
-**Here are some ideas to get you started:**
+### NUESTRO OBJETIVO  🎯
+Simplificar y democratizar la gestión de comunidades de vecinos, proporcionando una herramienta integral que permita tanto la autogestión como el apoyo a administradores profesionales, ahorrando tiempo, dinero y esfuerzo.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+### NUESTRA MISIÓN 🗽
+Ser la solución tecnológica líder en la gestión de comunidades de vecinos, ofreciendo una plataforma innovadora, accesible y eficiente que automatice los procesos administrativos, fomente la transparencia y reduzca los costes operativos, empoderando a las comunidades a tomar el control de su administración.
+
+### NUESTRA VISIÓN 🧐
+Transformar la gestión de comunidades de vecinos en un modelo sostenible, accesible y libre de complicaciones, donde cualquier comunidad, sin importar su tamaño, pueda gestionar sus recursos de manera eficiente, económica y autónoma, promoviendo un futuro más colaborativo y conectado.
 -->
