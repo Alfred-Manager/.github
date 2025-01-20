@@ -1,0 +1,2 @@
+# .github
+Alfred Manager Service
